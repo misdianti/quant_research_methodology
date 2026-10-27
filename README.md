@@ -107,12 +107,10 @@ The model is retrained quarterly using all data available up to that quarter, th
 - [x] Feature engineering
 - [x] XGBoost model training & walk-forward validation
 - [x] Simulation & performance analysis
-- [x] Forward validation active (January 2025 — present)
-- [ ] Live automated execution (in progress)
-- [ ] Short-side regime analysis
+- [x] Forward validation active (January 2025 — September 2025)
 
 ---
 
 ## Notes
 
-This repository is **private**. The strategy is intended for live deployment; full methodology is not disclosed publicly. Available for review upon request in the context of professional evaluation.
+This repository contains a methodology summary only. Code, features and parameters are private. Details are available on request for professional evaluation
